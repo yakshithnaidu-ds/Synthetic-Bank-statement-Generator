@@ -1,0 +1,21 @@
+An Issuer Identification Number (IIN), commonly known as a Bank Identification Number (BIN), is the first 6 to 8 digits of a payment card number (credit, debit, or prepaid). It uniquely identifies the institution issuing the card and the card network, facilitating secure, accurate transaction routing and fraud detection. 
+Key Details About IINs:
+Purpose: Identifies the bank/issuer and ensures secure transaction processing.
+Location: Found on the front of credit, debit, and prepaid cards.
+Structure: Traditionally 6 digits, but transitioning to 8 digits to expand available numbers.
+First Digit: Known as the Major Industry Identifier (MII), identifying the industry, such as banking or travel.
+Usage: Used by merchants for fraud detection (matching country/bank) and transaction routing.
+Commonality: Used interchangeably with the term BIN (Bank Identification Number)
+A Magnetic Ink Character Recognition (MICR) code is a 9-digit numerical code printed on cheques using special magnetic ink, uniquely identifying the bank branch to speed up clearing. It consists of a city code (first 3 digits), bank code (middle 3), and branch code (last 3), aiding in secure, automated processing. 
+Key Details About MICR Codes:
+Purpose: Facilitates fast and secure cheque processing via automated machines.
+Location: Found at the bottom of a cheque leaf, usually next to the cheque number.
+Structure:
+First 3 digits: City code (often aligns with PIN code).
+Next 3 digits: Bank code.
+Last 3 digits: Branch code.
+Benefits: Reduces manual errors, prevents fraud, and enables faster clearance.
+Difference from IFSC: While the 11-digit alphanumeric IFSC is used for electronic transfers (NEFT/RTGS), the 9-digit numeric MICR is strictly for cheque clearing.
+
+Link : https://www.npci.org.in/product/nach/all-members
+
